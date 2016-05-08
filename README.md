@@ -12,4 +12,4 @@ pod 'JSPatchSDK', '~> 1.4'
 
 ##Usage
 
-Please visit [http://jspatch.com/Docs/intro](http://jspatch.com/Docs/intro)
+Please visit [http://jspatch.com/Docs/intro](http://jspatch.com/Docs/intro).
