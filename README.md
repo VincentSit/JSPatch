@@ -2,8 +2,6 @@
 
 JSPatch bridges Objective-C and JavaScript using the Objective-C runtime.
 
-This repository is for those who want CocoaPods to manage all depend on people.
-
 ##Installation
 
 ```
