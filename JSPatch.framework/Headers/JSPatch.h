@@ -1,6 +1,6 @@
 //
 //  JSPatch.h
-//  JSPatch SDK version 1.5
+//  JSPatch SDK version 1.5.1
 //
 //  Created by bang on 15/7/28.
 //  Copyright (c) 2015 bang. All rights reserved.
@@ -28,13 +28,14 @@ typedef NS_ENUM(NSInteger, JPCallbackType){
 + (void)startWithAppKey:(NSString *)aAppKey;
 
 /*
- 与 JSPatch 平台后台同步，询问是否有 patch 更新，如果有更新会自动下载并执行
+ 与 JSPatch 平台后台同步，发请求询问后台是否有 patch 更新，如果有更新会自动下载并执行
+ 可调用多次（App启动时调用或App唤醒时调）
  */
 + (void)sync;
 
 /*
- 用于发布前测试脚本，调用后，会在当前项目的 bundle 里寻找 main.js 文件执行
- 不能与 `+startWithAppKey:` 一起调用，测试完成后需要删除。
+ 用于发布前测试脚本。先把脚本放入项目中，调用后，会在当前项目的 bundle 里寻找 main.js 文件执行
+ 测试完成后请删除，改为调用 +startWithAppKey: 和 +sync
  */
 + (void)testScriptInBundle;
 

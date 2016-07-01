@@ -6,15 +6,15 @@
 	<dict>
 		<key>Headers/JPEngine.h</key>
 		<data>
-		T5Y7onYInpClEdxSvISmvAA6Qug=
+		gGQChApwdUcbG79Ky5DRQlVTBBE=
 		</data>
 		<key>Headers/JSPatch.h</key>
 		<data>
-		9h4qcVc7jNO84hkV69ktcrX3HDg=
+		j5NBEKKvtA9V0OsFE18EnCDeoek=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ruawv6LbGG13mtseBVm8QxZShxk=
+		9QQ+zfGBOB8hXhnd2fn4paSHD58=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -27,22 +27,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T5Y7onYInpClEdxSvISmvAA6Qug=
+			gGQChApwdUcbG79Ky5DRQlVTBBE=
 			</data>
 			<key>hash2</key>
 			<data>
-			SzPFfQGiitDkb0plAg6JKmtaZw4OlgMVophdHz0USvc=
+			4XueQ6taYSz6/NrLFLG18FdXy+JPv7ixAIu1RvCsupY=
 			</data>
 		</dict>
 		<key>Headers/JSPatch.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9h4qcVc7jNO84hkV69ktcrX3HDg=
+			j5NBEKKvtA9V0OsFE18EnCDeoek=
 			</data>
 			<key>hash2</key>
 			<data>
-			FhqUe7mhrlqGxOwor7sQhBgBLv8yMScAfOp0wTby8us=
+			STbQTVuDBAXngFm+5mTJGLF95ihGrTPHk96ySlqW4lU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
