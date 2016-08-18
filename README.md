@@ -7,7 +7,7 @@ This is an unofficial repository in order to add support for CocoaPods.
 ##Installation
 
 ```
-pod 'JSPatchSDK', '~> 1.5.2'
+pod 'JSPatchSDK', '~> 1.6'
 ```
 
 ##Usage
